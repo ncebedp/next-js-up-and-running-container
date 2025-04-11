@@ -3,7 +3,6 @@ import Aside from "@/components/Aside";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Section from "@/components/Section";
-import Image from "next/image";
 
 //2. FuNCTION DEFINATION AREA
 function Home() {
